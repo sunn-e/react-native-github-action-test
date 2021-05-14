@@ -7,6 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Go away, nothing to see here. :p </Text>
       <Text>Well, now I'm just trying to trigger GitHub Action </Text>
+      <Text> Lmao,electron is up with "yarn expo-electron start"</Text>
 
       <StatusBar style="auto" />
     </View>

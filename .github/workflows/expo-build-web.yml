@@ -2,7 +2,7 @@ name: Expo Build-web
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   ci:
     name: Daily Continuous Integration

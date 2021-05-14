@@ -6,6 +6,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Go away, nothing to see here. :p </Text>
+      <Text>Well, now I'm just trying to trigger GitHub Action </Text>
+
       <StatusBar style="auto" />
     </View>
   );
